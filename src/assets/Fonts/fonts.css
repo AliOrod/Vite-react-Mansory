@@ -1,0 +1,32 @@
+@font-face {
+  font-family: Fontello;
+  src: url(./Fontello/font/fontello.woff2) format(.woff2);
+}
+@font-face {
+  font-family: LiberationSerifRegular;
+  src: url(./LiberationSerif/LiberationSerif-Regular/LiberationSerif-Regular.woff)
+    format(.woff);
+}
+@font-face {
+  font-family: LiberationSerifBold;
+  src: url(./LiberationSerif/LiberationSerif-Bold/LiberationSerif-Bold.woff)
+    format(.woff);
+}
+@font-face {
+  font-family: Opensans;
+  src: url(./Opensans/opensans-light/opensans-light.woff2) format(.woff2);
+}
+@font-face {
+  font-family: Titillium;
+  src: url(./Titillium/titilliumweb-regular/titilliumweb-regular.woff2)
+    format(.woff2);
+}
+@font-face {
+  font-family: TitilliumBold;
+  src: url(./Titillium/titilliumweb-bold/titilliumweb-bold.woff2) format(.woff2);
+}
+@font-face {
+  font-family: TitilliumBlack;
+  src: url(./Titillium/titilliumweb-black/titilliumweb-black.woff2)
+    format(.woff2);
+}
