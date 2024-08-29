@@ -1,4 +1,23 @@
-
-p {
-  font-size: larger;
+nav button {
+  font-family: Fontello;
+  font-size: 1rem;
+  line-height: 1rem;
+  text-transform: uppercase;
 }
+nav button {
+  transition: color 0.4s ease-in-out;
+}
+.Headerlogo:hover {
+  transition: color 0.4s ease-in-out;
+}
+@keyframes color {
+  0% {
+    color: #fff;
+  }
+
+  100% {
+    color: #d4b170;
+  }
+}
+
+

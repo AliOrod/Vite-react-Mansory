@@ -30,3 +30,8 @@
   src: url(./Titillium/titilliumweb-black/titilliumweb-black.woff2)
     format(.woff2);
 }
+@font-face {
+  font-family: Titilliumregular;
+  src: url(./Titillium/titilliumweb-regular/titilliumweb-regular.woff2)
+    format(.woff2);
+}
